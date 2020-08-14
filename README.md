@@ -7,7 +7,10 @@ interface is flat, so h(i,t) = 0 for i = 1,..., L. At any moment t we choose ran
 site i on the lattice and increase h(i,t) to h(i,t+1) = max[h(i-1,t), h(i,t)+l, h(i+1,t)]. 
 
 ### Codes
-The first code <div class="text-blue mb-2"> "Ballestic" </div>  calculates the roughness of the interface where we could find the exponent beta ß and α which is called the "GROWTH EXPONENT" and "ROUGHNESS EXPONENT" respectively.
+The first code <div class="text-blue mb-2"> 
+ "Ballestic" 
+</div>  
+calculates the roughness of the interface where we could find the exponent beta ß and α which is called the "GROWTH EXPONENT" and "ROUGHNESS EXPONENT" respectively.
  
  The second code <div class="text-blue mb-2"> "Ballestic_visual" </div> displays how the surface growth happend in Ballestic deposition
  
