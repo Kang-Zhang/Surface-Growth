@@ -1,4 +1,4 @@
-% in this code you will see the growth of surface in ballestic deposition
+% in this code you will see the growth of surface in ballistic deposition
 % input
 % L = lattice size
 % h = the height of the lattice
