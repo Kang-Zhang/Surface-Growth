@@ -1,4 +1,4 @@
-%Ballestic Deposition
+%Ballistic Deposition
 % Periodic bounderies is considered in this code.
 % input
 % L: lattice size
